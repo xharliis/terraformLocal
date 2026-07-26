@@ -19,8 +19,9 @@ provider "aws" {
 
   region = "eu-west-1"
 
-  access_key = "test"
-  secret_key = "test"
+  access_key        = "test"
+  secret_key        = "test"
+  s3_use_path_style = true # esta linea es para que terraform use path-style para los buckets en lugar de domain-style
 
   endpoints {
 
