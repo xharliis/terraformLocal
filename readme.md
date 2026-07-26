@@ -1,6 +1,6 @@
 # Terraform + LocalStack
 
-Laboratorio personal para aprender **Terraform** desde cero utilizando **LocalStack** como entorno local para simular AWS.
+Laboratorio personal para usar **Terraform** desde cero utilizando **LocalStack** como entorno local para simular AWS.
 
 ---
 
