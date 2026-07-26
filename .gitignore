@@ -1,0 +1,7 @@
+# .gitignore
+.env
+.env.local
+.env.*.local
+localstack/
+*.log
+*.tmp
