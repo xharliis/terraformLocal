@@ -1,7 +1,43 @@
-# .gitignore
+# Terraform
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration
+.terraformrc
+terraform.rc
+
+# Variables sensibles
+*.auto.tfvars
+terraform.tfvars
+
+# Planes de Terraform
+*.tfplan
+plan.out
+
+# Entorno
 .env
-.env.local
-.env.*.local
-localstack/
-*.log
-*.tmp
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
