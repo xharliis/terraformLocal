@@ -1,5 +1,8 @@
 # Terraform
 .terraform/
+localstack/
+*.log
+*.tmp
 
 # Terraform state
 *.tfstate
