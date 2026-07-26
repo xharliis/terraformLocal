@@ -1,4 +1,4 @@
-# 🚀 Curso de Terraform + LocalStack
+# Terraform + LocalStack
 
 Laboratorio personal para aprender **Terraform** desde cero utilizando **LocalStack** como entorno local para simular AWS.
 
