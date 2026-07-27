@@ -499,7 +499,7 @@ aws s3 rb s3://mi-bucket --endpoint-url=http://localhost:4566
 - [x] Variables
 - [x] Outputs
 - [x] Data Sources
-- [ ] Modules
+- [x] Modules
 - [ ] Workspaces
 - [ ] Remote State
 - [ ] Backend S3
