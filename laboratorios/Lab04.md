@@ -102,12 +102,12 @@ Puede representarse así:
 ¿Existe un valor definido por el usuario?
 
         │
-      Sí │
+     Sí │
         ▼
 Utilizar ese valor
 
         │
-      No │
+     No │
         ▼
 Utilizar el default
 ```
