@@ -1,6 +1,6 @@
 # Terraform + LocalStack
 
-Laboratorio personal para usar **Terraform** desde cero utilizando **LocalStack** como entorno local para simular AWS.
+Laboratorio personal para usar **Terraform** desde cero utilizando **LocalStack** como entorno local para simular recursos deAWS.
 
 ---
 
@@ -497,8 +497,8 @@ aws s3 rb s3://mi-bucket --endpoint-url=http://localhost:4566
 - [x] Terraform State
 - [x] Drift
 - [x] Variables
-- [ ] Outputs
-- [ ] Data Sources
+- [x] Outputs
+- [x] Data Sources
 - [ ] Modules
 - [ ] Workspaces
 - [ ] Remote State

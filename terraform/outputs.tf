@@ -12,3 +12,8 @@ output "bucket_region" {
   description = "Región del bucket"
   value       = aws_s3_bucket.curso.region
 }
+
+output "bucket_arn_data" {
+  description = "ARN obtenido mediante un Data Source"
+  value       = data.aws_s3_bucket.curso_existente.arn
+}
