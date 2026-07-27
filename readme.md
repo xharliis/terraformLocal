@@ -496,7 +496,7 @@ aws s3 rb s3://mi-bucket --endpoint-url=http://localhost:4566
 - [x] terraform destroy
 - [x] Terraform State
 - [x] Drift
-- [ ] Variables
+- [x] Variables
 - [ ] Outputs
 - [ ] Data Sources
 - [ ] Modules

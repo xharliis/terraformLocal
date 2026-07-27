@@ -25,12 +25,12 @@ Bucket definido
 terraform.tfstate
     │
     ▼
-❌ No existe
+ No existe
 
 Infraestructura
     │
     ▼
-✅ El bucket existe
+ El bucket existe
 ```
 
 En este escenario, Terraform no sabe que ese bucket pertenece a su infraestructura.
