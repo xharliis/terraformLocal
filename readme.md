@@ -503,5 +503,5 @@ aws s3 rb s3://mi-bucket --endpoint-url=http://localhost:4566
 - [ ] Workspaces
 - [x] Remote State
 - [x] Backend S3
-- [ ] DynamoDB Locking
+- [x] Locking
 - [ ] CI/CD con GitHub Actions
