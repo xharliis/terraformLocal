@@ -500,7 +500,7 @@ aws s3 rb s3://mi-bucket --endpoint-url=http://localhost:4566
 - [x] Outputs
 - [x] Data Sources
 - [x] Modules
-- [ ] Workspaces
+- [x] Workspaces
 - [x] Remote State
 - [x] Backend S3
 - [x] Locking
